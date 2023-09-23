@@ -1,16 +1,23 @@
-### Hi there 👋
+### Sup 👋
 
-<!--
-**FCancella/FCancella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Felipe Cancella:
 
-Here are some ideas to get you started:
+- 💻 Computer Science student at PUC-Rio
+- 🌱 Learning mostly about Data Science and Quantum finance
+- 📫 You can reach me through email or Discord @ cancella.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+🌐 I've worked with:
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
+          
+![Profile Views](https://komarev.com/ghpvc/?username=FCancella&color=red)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FCancella&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

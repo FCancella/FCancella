@@ -1,4 +1,4 @@
-### [Sup](https://github.com/FCancella) 👋
+### [Hey](https://github.com/FCancella) 👋
 
 I'm Cancella:
 

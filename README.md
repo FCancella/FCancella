@@ -16,7 +16,7 @@
           
 <br>  
           
-![Profile Views](https://komarev.com/ghpvc/?username=FCancella&color=red)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=FCancella&color=red) --> 
 
 <br>
           

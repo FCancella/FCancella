@@ -1,7 +1,3 @@
-### [Hey](https://github.com/FCancella) 👋
-
-I'm Cancella:
-
 - 💻 Computer Science student at PUC-Rio
 - 🌱 Learning mostly about Data Science and Quantum finance
 - 📫 You can reach me through email or Discord @ cancella.

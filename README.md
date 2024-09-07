@@ -1,4 +1,5 @@
 - 💻 Computer Science student at PUC-Rio
+- 📊 Risk Analyst Intern
 - 🌱 Learning mostly about Data Science
 - 📫 You can reach me through email or Discord @ cancella.
 

@@ -1,5 +1,5 @@
 - 💻 Computer Science student at PUC-Rio
-- 🌱 Learning mostly about Data Science and Quantum finance
+- 🌱 Learning mostly about Data Science
 - 📫 You can reach me through email or Discord @ cancella.
 
 👾 I've worked with:
